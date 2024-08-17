@@ -1,4 +1,4 @@
-# 24FS_I4DS27: Adversarial Attacks - Wie kann KI überlistet werden?
+# Fraud Detection of Cryptocurrencies
 
 Dieses Projekt wird im Rahmen des Studiengangs B.Sc. Data Science der Fachhochschule Nordwestschweiz bearbeitet.
 
