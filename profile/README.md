@@ -23,3 +23,7 @@ Und von folgenden Dozenten/Fachexperten betreut:
 Hier geht es zum Taskboard mit allen Tasks und Issues:
 
 [Link zum Taskboard](https://github.com/orgs/CryptoFraudDetection/projects/1)
+
+## Previous Projects
+
+[Crypto Stock Analysis](https://gitlab.fhnw.ch/facr/crypto_stock_analysis) and especially its [docs](https://gitlab.fhnw.ch/facr/crypto_stock_analysis/-/blob/main/docs/facr_cx_fs24_ht_fhnw.pdf).
