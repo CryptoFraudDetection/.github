@@ -18,9 +18,17 @@ And supervised by the following lecturers/subject experts:
 | cgml/5Da    | Michael Henninger |
 | cgml/5Da    | Stephan Heule     | 
 
+## Main Repository
+Here's the link to our main repository:
+[Link to Main Repo](https://github.com/CryptoFraudDetection/main)
+
 ## Taskboard
 Here's the link to the taskboard with all tasks and issues:
 [Link to Taskboard](https://github.com/orgs/CryptoFraudDetection/projects/1)
+
+## Meeting Notes and other Discussions
+Here are all the Meeting Notes and other Discussions/Ideas:
+[Link to Discussions](https://github.com/orgs/CryptoFraudDetection/discussions)
 
 ## Previous Projects
 [Crypto Stock Analysis](https://gitlab.fhnw.ch/facr/crypto_stock_analysis) and especially its [docs](https://gitlab.fhnw.ch/facr/crypto_stock_analysis/-/blob/main/docs/facr_cx_fs24_ht_fhnw.pdf).
